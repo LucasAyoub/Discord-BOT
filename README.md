@@ -9,7 +9,8 @@
 ## API's utilizadas:
 
 * Discord
+* Asyncio
 * Random
 * Segredo
-* Asyncio
+
 
