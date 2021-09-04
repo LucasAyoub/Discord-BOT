@@ -1,12 +1,12 @@
-# Bot Básico para Discord
+# Basic Bot for Discord
 
-## Funções criadas:
+## Functions created:
 
-* !bot (comando com resposta)
-* !magica (comando com resposta)
+* !bot (command with response)
+* !magica (command with response)
 * !moeda (mini-game)
 
-## API's utilizadas:
+## API's used:
 
 * Discord
 * Asyncio
